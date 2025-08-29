@@ -3,7 +3,7 @@ This is a feature-rich, Kanban-style task management dashboard built as a full-s
 
 Live Demo URL: https://creative-upaay-assignment-3g53.vercel.app/
 
-Video Demonstration: [YOUR_VIDEO_LINK_HERE]
+Video Demonstration: https://drive.google.com/file/d/10eq-XLsRVdWg3w5MiC5qyzoapvK7RKj4/view?usp=drive_link
 
 Features Implemented
 This project successfully implements all compulsory Level 1 features and several optional Level 2 features for a competitive advantage.
